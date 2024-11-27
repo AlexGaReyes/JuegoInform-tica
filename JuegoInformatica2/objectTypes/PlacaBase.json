@@ -1,0 +1,83 @@
+{
+	"name": "PlacaBase",
+	"plugin-id": "Sprite",
+	"sid": 587387487566044,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "DragnDrop",
+			"name": "ArrastrarYSoltar",
+			"sid": 425803675959458
+		},
+		{
+			"behaviorId": "Pin",
+			"name": "Pegado",
+			"sid": 393072551829430
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 601,
+						"height": 756,
+						"originX": 0.47753743760399336,
+						"originY": 0.4695767195767196,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8089863,
+						"collisionPoly": {
+							"points": [
+								0.09983361064891845,
+								0.0013227513227513227,
+								0.9933444259567388,
+								0.04365079365079364,
+								0.9750415973377704,
+								0.9986772486772487,
+								0.056572379367720464,
+								0.9907407407407407,
+								0.0016638935108153079,
+								0.4695767195767196,
+								0.04159733777038269,
+								0.003968253968253973
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Punto imagen 1",
+								"x": 0.5440931780366056,
+								"y": 0.3055555555555556
+							},
+							{
+								"name": "Punto imagen 2",
+								"x": 0.39434276206322794,
+								"y": 0.5886243386243386
+							},
+							{
+								"name": "Punto imagen 3",
+								"x": 0.8236272878535774,
+								"y": 0.31613756613756616
+							}
+						],
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 658667837383427,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
